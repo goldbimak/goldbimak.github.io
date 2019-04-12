@@ -14,7 +14,7 @@ function changeImage(){
 }
 
 function changeImageback(){
-  document.getElementById("us").src = "../images/us1.jpg";
+  document.getElementById("us").src = "../images/us1.JPG";
 }
 
 //contact page
